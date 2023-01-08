@@ -1,4 +1,4 @@
-import csv, json
+import csv
 
 
 def get_by_date(date, name=None, filename='dump.csv'):
